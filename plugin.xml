@@ -14,7 +14,12 @@
     <platform name="ios">
       <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
         <array>
-          <string>transflomobileplus</string>
+            <string>ceapp</string>
+            <string>truckerpath</string>
+            <string>weighmytruck</string>
+            <string>com.loves.connect</string>
+            <string>myPilot</string>
+            <string>transflomobileplus</string>
         </array>
       </config-file>
     </platform>
