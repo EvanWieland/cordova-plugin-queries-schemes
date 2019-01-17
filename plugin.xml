@@ -20,6 +20,8 @@
             <string>com.loves.connect</string>
             <string>myPilot</string>
             <string>transflomobileplus</string>
+            <string>copilotv9</string>
+            <string>copilotv10</string>
         </array>
       </config-file>
     </platform>
